@@ -148,7 +148,7 @@ public class MyPagerAdapter extends ZzBasePagerAdapter<ImageView, String> {
 
 # 三、自定义属性说明
 
-```
+```xml
     <declare-styleable name="ZzPagerIndicator">
         <!--指示器类型-->
         <attr name="zz_indicator_type" format="enum">
