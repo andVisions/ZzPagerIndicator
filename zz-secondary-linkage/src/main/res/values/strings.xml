@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZzSecondaryLinkage</string>
+    <string name="load_more">上拉加载更多</string>
+    <string name="loading">玩命加载中...</string>
+    <string name="no_need_load">已经是全部数据了</string>
+
+</resources>
