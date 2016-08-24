@@ -38,7 +38,7 @@ Maven:
 <br>
 <h3>How to use it ?
 
-一、准备工作
+# 一、准备工作
 
 1.设置adapter，继承`ZzBasePagerAdapter<K extends View, T>`
 
@@ -97,7 +97,7 @@ public class MyPagerAdapter extends ZzBasePagerAdapter<ImageView, String> {
 
 ```
 
-二、开始使用
+# 二、开始使用
 
 1.布局
 
@@ -146,7 +146,7 @@ public class MyPagerAdapter extends ZzBasePagerAdapter<ImageView, String> {
         indicator.setViewPager(viewPager);
 ```
 
-三、自定义属性说明
+# 三、自定义属性说明
 
 ```
     <declare-styleable name="ZzPagerIndicator">
