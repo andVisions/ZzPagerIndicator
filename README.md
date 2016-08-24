@@ -23,13 +23,16 @@ Maven:
 
 <h3>What does it look like ?
 
-
+圆点样式：<br/>
 ![这里写图片描述](https://github.com/zhouzhuo810/ZzPagerIndicator/blob/master/point.gif)
 
+图标样式：<br/>
 ![这里写图片描述](https://github.com/zhouzhuo810/ZzPagerIndicator/blob/master/icon.gif)
 
+文字样式：<br/>
 ![这里写图片描述](https://github.com/zhouzhuo810/ZzPagerIndicator/blob/master/text.gif)
 
+图文样式：<br/>
 ![这里写图片描述](https://github.com/zhouzhuo810/ZzPagerIndicator/blob/master/icon_text.gif)
 
 <br>
